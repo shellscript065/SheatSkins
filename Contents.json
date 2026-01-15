@@ -175,6 +175,117 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "49d987a9af3ab987f4973b116c0d23aa",
+				"Address" : "N9Mm7J2_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "3f109373e20e8c8e94d6a5188c9b8bdb",
+				"Address" : "N9Mm7J2_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "79bbf09902f29842a36abae5b51ac1f0",
+				"Address" : "N9Mm7J2_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ATARI",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fbcfefe68e43b212d21d3625b33ec4a6",
+				"Address" : "PwT9Xi_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2c61728ffcc2937c803804f9847da0c8",
+				"Address" : "PwT9Xi_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "Odie",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "683f096be867e539f17dc53f570a4cf7",
+				"Address" : "aqDt17dI_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "be8fb65ca1911acd66e9ebb515386fce",
+				"Address" : "aqDt17dI_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "e93d3f9a8d3fa8230e5efd0691c38822",
+				"Address" : "aqDt17dI_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "healthIcon-Crew",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6ea5ccd3aefd2884d48a5fff87a09a61",
+				"Address" : "GKrtKGxAc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "be8fb65ca1911acd66e9ebb515386fce",
+				"Address" : "GKrtKGxAc_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "7be1cb2c38f3aa2ffa9b3045466a66c5",
+				"Address" : "GKrtKGxAc_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "Healthicon-Inpostor",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -392,6 +503,45 @@
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"Name" : "蝶ネクタイ",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a720f7e45e5d2895d75790e1f51e62b0",
+				"Address" : "u3tnloYO_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c5b1c9e7bdf816dec1db2c10bed8c493",
+				"Address" : "u3tnloYO_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "Nermal",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "481260bcc07173037fd278d2ed3d06a0",
+				"Address" : "ZJ4NASouc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "Ourpleguy",
 			"Author" : "シート",
 			"Package" : "TriffleSkin",
 			"IsUnlockable" : False,
