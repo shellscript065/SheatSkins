@@ -1,7 +1,7 @@
-# TriffleSkins
-FNFのMOD、TriffleModのスキンです。
+# SheatSkins
+新しくなったシートのスキンです。
 
-Discord id : keiken09
+Discord id : norp41
 # 利用規約
 ・自作発言禁止
 
