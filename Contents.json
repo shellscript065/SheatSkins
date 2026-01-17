@@ -479,15 +479,13 @@
 				"Hash" : "603c2e97de1cb7da82831b4f06f3b95d",
 				"Address" : "KyujyHib_Main.png",
 				"ExIsFront" : False,
-				"MaskAddress" : "mask1.png"
-                                "MaskHash" : "4acf1423ecc5437038869423117292c5",
+				"MaskAddress" : "mask1.png",
 			},
 			"Climb" : {
 				"Hash" : "9ac412b9706d07fb01d487821b6bb442",
 				"Address" : "KyujyHib_Climb.png",
 				"ExIsFront" : False,
-				"MaskAddress" : "mask2.png"
-                                "MaskHash" : "b1b77175fc04a9ab91d63cc548cffdf5",
+				"MaskAddress" : "mask2.png",
                                 
 			},
 			"Bounce" : False,
