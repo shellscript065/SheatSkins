@@ -409,7 +409,7 @@
 				"MaskAddress" : "lalnGBw_MaClimb.png"
 			},
 			"Preview" : {
-				"Hash" : "451f30de0d78e0878f88af595022e574",
+				"Hash" : "d3c183c9bab46a693495679e85dd4fc4",
 				"Address" : "lalnGBw_Preview.png",
 				"ExIsFront" : False
 			},
@@ -479,19 +479,18 @@
 				"Hash" : "603c2e97de1cb7da82831b4f06f3b95d",
 				"Address" : "KyujyHib_Main.png",
 				"ExIsFront" : False,
-				"MaskAddress" : "mask1.png",
+				"MaskAddress" : "mask1.png"
 			},
 			"Climb" : {
 				"Hash" : "9ac412b9706d07fb01d487821b6bb442",
 				"Address" : "KyujyHib_Climb.png",
 				"ExIsFront" : False,
-				"MaskAddress" : "mask2.png",
-                                
+				"MaskAddress" : "mask2.png"
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
+			"HideHands" : True,
+			"IsSkinny" : True,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "Top10",
