@@ -286,6 +286,143 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e597b0069d094b72f6e39dd9eb74e66b",
+				"Address" : "2AyHQ9AAc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f0a64a57fbf210bcc55ea429495b1ab9",
+				"Address" : "2AyHQ9AAc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "Squidboi",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "22619ce26c9b2edc877c4df4b493117e",
+				"Address" : "iXrWLWWU_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "21f65a9cd3d2bdebf8d36b834b28a755",
+				"Address" : "iXrWLWWU_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "SquidBoy89",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "65e96830c4c279b60317f40450b2298e",
+				"Address" : "OUSxpj6s_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "18f115402bc8b2f9ad996daab92b6185",
+				"Address" : "OUSxpj6s_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "fae73bb7d0cbe4b310642ecc02ccdda7",
+				"Address" : "OUSxpj6s_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "Healthicon-crew2",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d92d74d396fc8297e80ddff47a2e1a5e",
+				"Address" : "Nh4MuV6ab_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "18f115402bc8b2f9ad996daab92b6185",
+				"Address" : "Nh4MuV6ab_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "34557c54d46adf1e5456628d22254414",
+				"Address" : "Nh4MuV6ab_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "Healthicon-Impostor2",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "16c6ac0836d1e9489ae6179db338a8e5",
+				"Address" : "lalnGBw_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479"
+			},
+			"Climb" : {
+				"Hash" : "8b766aff89a993d827b1dced4e230a27",
+				"Address" : "lalnGBw_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479"
+			},
+			"Preview" : {
+				"Hash" : "451f30de0d78e0878f88af595022e574",
+				"Address" : "lalnGBw_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ナーマル",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -547,6 +684,28 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cfa17597af71bc00b06781f70753bf51",
+				"Address" : "TTBKsYslb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "3f1742e4528d072effa24aaf27961ac5",
+				"Address" : "TTBKsYslb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : True,
+			"Fixed" : False,
+			"Name" : "怒りまゆげ2",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Nameplates" : [
@@ -555,8 +714,8 @@
 	],
 	"Packages" : [
 		{
-			"Package" : "TriffleSkin",
-			"Format" : "TriffleSkin",
+			"Package" : "SheatSkins",
+			"Format" : "SheatSkins",
 			"Priority" : 1,
 			"IsLocalizable" : True
 		}
