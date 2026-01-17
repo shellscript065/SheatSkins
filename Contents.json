@@ -398,13 +398,15 @@
 				"Hash" : "16c6ac0836d1e9489ae6179db338a8e5",
 				"Address" : "lalnGBw_Main.png",
 				"ExIsFront" : False,
-				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479"
+				"MaskHash" : "451f30de0d78e0878f88af595022e574",
+				"MaskAddress" : "lalnGBw_Ma.png"
 			},
 			"Climb" : {
 				"Hash" : "8b766aff89a993d827b1dced4e230a27",
 				"Address" : "lalnGBw_Climb.png",
 				"ExIsFront" : False,
-				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479"
+				"MaskHash" : "c070b6a87d4bd4f7f702ea3acdc86d61",
+				"MaskAddress" : "lalnGBw_MaClimb.png"
 			},
 			"Preview" : {
 				"Hash" : "451f30de0d78e0878f88af595022e574",
@@ -418,6 +420,54 @@
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "ナーマル",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c10c3ffae0b89781b53a187fc54cef64",
+				"Address" : "AWasCGRt_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "deae71bb2a165ac0d6559e3f3845abbf",
+				"Address" : "AWasCGRt_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "impostorBF",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2f98ca3c8367f6d2fad2f36e7d4069b9",
+				"Address" : "jpaQI2dob_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "35cbe62fa9004b938c65db5d65d6d083",
+				"Address" : "jpaQI2dob_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "B-sideBF",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
