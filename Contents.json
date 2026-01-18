@@ -504,12 +504,14 @@
 			"Main" : {
 				"Hash" : "9987c03b3d34d2cec58a9938e91451b0",
 				"Address" : "LDir6zRhc_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"MaskAddress" : "LDir6zRhc_MaskMain.png"
 			},
 			"Climb" : {
 				"Hash" : "910d69a7999aecbca7b08b8f5b9617de",
 				"Address" : "LDir6zRhc_Climb.png",
 				"ExIsFront" : False
+				"MaskAddress" : "LDir6zRhc_MaskClimb.png"
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
