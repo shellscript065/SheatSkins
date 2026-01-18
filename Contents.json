@@ -599,6 +599,38 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "85abf8532d7686d46c8ac8caae923330",
+				"Address" : "M55eb_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "M55eb_MainMask.png"
+			},
+			"Climb" : {
+				"Hash" : "117320bc7c718dfe1f6fc5e6831f6b8f",
+				"Address" : "M55eb_Climb.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "M55eb_ClimbMask.png"
+			},
+			"EnterVent" : {
+				"Hash" : "2b80f44bcafbfb6a9a0ce6b074803bbc",
+				"Address" : "M55eb_EnterVent.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "M55eb_EnterVentMask.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "IDK",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
