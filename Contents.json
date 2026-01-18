@@ -571,6 +571,32 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "4956a99be943b5e750fe392ca5314d41",
+				"Address" : "Vng_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "Vng_MainMask.png"
+			},
+			"Climb" : {
+				"Hash" : "4956a99be943b5e750fe392ca5314d41",
+				"Address" : "Vng_Climb.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "Vng_ClimbMask.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "3d",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
