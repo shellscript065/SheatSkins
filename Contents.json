@@ -631,6 +631,7 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+			"IsHidden" : True
 		},
 		{
 			"Main" : {
