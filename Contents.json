@@ -510,7 +510,7 @@
 			"Climb" : {
 				"Hash" : "910d69a7999aecbca7b08b8f5b9617de",
 				"Address" : "LDir6zRhc_Climb.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
 				"MaskAddress" : "LDir6zRhc_MaskClimb.png"
 			},
 			"Bounce" : False,
