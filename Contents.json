@@ -630,8 +630,63 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True,
-			"IsHidden" : True
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c1a4c03f5f6e1cdca401f106fc2804e9",
+				"Address" : "5OLhexw_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "5OLhexw_MainMask.png"
+			},
+			"Move" : {
+				"Hash" : "f2c3bbc27916f404f3fb2a871c67b8c5",
+				"Address" : "5OLhexw_Move.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "5OLhexw_MoveMask.png"
+			},
+			"MoveFlip" : {
+				"Hash" : "7bd3404e13d0ad48b41feea88514c407",
+				"Address" : "5OLhexw_MoveFlip.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "5OLhexw_MoveFlipMask.png"
+			},
+			"Climb" : {
+				"Hash" : "f2c3bbc27916f404f3fb2a871c67b8c5",
+				"Address" : "5OLhexw_Climb.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "5OLhexw_ClimbMask.png"
+			},
+			"ClimbDown" : {
+				"Hash" : "7bd3404e13d0ad48b41feea88514c407",
+				"Address" : "5OLhexw_ClimbDown.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "5OLhexw_ClimbDownMask.png"
+			},
+			"EnterVent" : {
+				"Hash" : "66dc45a4a836e315d74faf12b0946c61",
+				"Address" : "5OLhexw_EnterVent.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "5OLhexw_EnterVentMask.png"
+			},
+			"ExitVent" : {
+				"Hash" : "66dc45a4a836e315d74faf12b0946c61",
+				"Address" : "5OLhexw_ExitVent.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "5OLhexw_ExitVentMask.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "アモガス",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
