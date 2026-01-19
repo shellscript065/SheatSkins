@@ -631,7 +631,6 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
-			"IsHidden" : True
 		},
 		{
 			"Main" : {
@@ -683,6 +682,32 @@
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "アモガス",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3762790ff1d6c3b8b1735aca6661a894",
+				"Address" : "6obdJj0U_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "Mask5.png"
+			},
+			"Climb" : {
+				"Hash" : "347d1f0f5a151904b6181609e4fdfc3f",
+				"Address" : "6obdJj0U_Climb.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "Mask5.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "KidsAmongUs",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
