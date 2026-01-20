@@ -424,7 +424,8 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True
+			"IsLocalizable" : True,
+			"IsHidden" : "True"
 		},
 		{
 			"Main" : {
@@ -630,7 +631,8 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True
+			"IsLocalizable" : True,
+			"IsHidden" : "True"
 		},
 		{
 			"Main" : {
@@ -749,6 +751,34 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 24,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5a17addce2fa63c9011e0348e3047abe",
+				"Address" : "oK5HEfayb_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "72f284cc4826641ec36aa87d00462697",
+				"MaskAddress" : "oK5HEfayb_MainMask.png"
+			},
+			"Climb" : {
+				"Hash" : "6df70928452c87fc91a770619645b57b",
+				"Address" : "oK5HEfayb_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "40093852d37be31a48c9badd031589cc",
+				"MaskAddress" : "oK5HEfayb_ClimbMask.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "僕はなにもしてない",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
