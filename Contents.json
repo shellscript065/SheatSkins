@@ -424,7 +424,8 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True
+			"IsLocalizable" : True,
+            "IsHidden" : "True"
 		},
 		{
 			"Main" : {
@@ -630,7 +631,8 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True
+			"IsLocalizable" : True,
+            "IsHidden" : "True"
 		},
 		{
 			"Main" : {
