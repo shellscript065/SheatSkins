@@ -720,14 +720,14 @@
 				"Address" : "iLxeYnw_Main.png",
 				"ExIsFront" : False,
 				"MaskHash" : "b1abb6004704ccce23d3fbe4c302b0cd",
-				"MaskAddress" : "Mask7.png"
+				"MaskAddress" : "iLxeYnw_MainMask.png"
 			},
 			"Move" : {
 				"Hash" : "9690ef8a74748f4b3f6003eff52f1b09",
 				"Address" : "iLxeYnw_Move.png",
 				"ExIsFront" : False,
 				"MaskHash" : "5ff70f9a418cd20dec778523f70a91b2",
-				"MaskAddress" : "Mask5.png",
+				"MaskAddress" : "iLxeYnw_MoveMask.png",
 				"Length" : 2
 			},
 			"Climb" : {
@@ -735,7 +735,7 @@
 				"Address" : "iLxeYnw_Climb.png",
 				"ExIsFront" : False,
 				"MaskHash" : "6b4abb7b560b19de08f8736385cde32b",
-				"MaskAddress" : "Mask6.png",
+				"MaskAddress" : "iLxeYnw_ClimbMask.png",
 				"Length" : 2
 			},
 			"Bounce" : False,
