@@ -422,11 +422,9 @@
 			"Name" : "ナーマル",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
-			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True,
-			"IsHidden" : "True"
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -630,11 +628,9 @@
 			"Name" : "IDK",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
-			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True,
-			"IsHidden" : "True"
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -723,14 +719,14 @@
 				"Hash" : "880660120fd05dd1da58b4b950b12728",
 				"Address" : "iLxeYnw_Main.png",
 				"ExIsFront" : False,
-				"MaskHash" : "b1abb6004704ccce23d3fbe4c302b0cd",
+				"MaskHash" : "d1559d707e55969739e2d91ed4c5cd39",
 				"MaskAddress" : "iLxeYnw_MainMask.png"
 			},
 			"Move" : {
 				"Hash" : "9690ef8a74748f4b3f6003eff52f1b09",
 				"Address" : "iLxeYnw_Move.png",
 				"ExIsFront" : False,
-				"MaskHash" : "5ff70f9a418cd20dec778523f70a91b2",
+				"MaskHash" : "5e6dad4a3d6bf0193dfad982fac8ce95",
 				"MaskAddress" : "iLxeYnw_MoveMask.png",
 				"Length" : 2
 			},
@@ -738,7 +734,7 @@
 				"Hash" : "f3b71021f8111c02179b675ac04eb942",
 				"Address" : "iLxeYnw_Climb.png",
 				"ExIsFront" : False,
-				"MaskHash" : "6b4abb7b560b19de08f8736385cde32b",
+				"MaskHash" : "442201b1f4d35b7c3045efcbbbd79f10",
 				"MaskAddress" : "iLxeYnw_ClimbMask.png",
 				"Length" : 2
 			},
@@ -752,35 +748,7 @@
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
-			"FPS" : 24,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "5a17addce2fa63c9011e0348e3047abe",
-				"Address" : "oK5HEfayb_Main.png",
-				"ExIsFront" : False,
-				"MaskHash" : "72f284cc4826641ec36aa87d00462697",
-				"MaskAddress" : "oK5HEfayb_MainMask.png"
-			},
-			"Climb" : {
-				"Hash" : "6df70928452c87fc91a770619645b57b",
-				"Address" : "oK5HEfayb_Climb.png",
-				"ExIsFront" : False,
-				"MaskHash" : "40093852d37be31a48c9badd031589cc",
-				"MaskAddress" : "oK5HEfayb_ClimbMask.png"
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "僕はなにもしてない",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
+			"FPS" : 42,
 			"IsLocalizable" : True
 		},
 		{
@@ -795,9 +763,8 @@
 				"Hash" : "ed0da74584efb72e1373966db81f0357",
 				"Address" : "K2EO_Move.png",
 				"ExIsFront" : False,
-				"MaskHash" : "	f59a2cd7498ba12ded2b69132698d51f",
+				"MaskHash" : "f59a2cd7498ba12ded2b69132698d51f",
 				"MaskAddress" : "K2EO_MoveMask.png"
-
 			},
 			"Climb" : {
 				"Hash" : "f7a5a012abdfa3694dbe458cfb829145",
@@ -805,7 +772,6 @@
 				"ExIsFront" : False,
 				"MaskHash" : "839e3914622bed722d714176b257f652",
 				"MaskAddress" : "K2EO_ClimbMask.png"
-
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
