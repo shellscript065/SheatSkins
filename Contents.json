@@ -422,6 +422,7 @@
 			"Name" : "ナーマル",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
+			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True,
@@ -629,6 +630,7 @@
 			"Name" : "IDK",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
+			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True,
@@ -775,6 +777,43 @@
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "僕はなにもしてない",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9bad786fb4e5680b476527f75ea75059",
+				"Address" : "K2EO_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "b27b31a3b856ea6bca7e50ef8dec8cba",
+				"MaskAddress" : "K2EO_MainMask.png"
+			},
+			"Move" : {
+				"Hash" : "ed0da74584efb72e1373966db81f0357",
+				"Address" : "K2EO_Move.png",
+				"ExIsFront" : False,
+				"MaskHash" : "	f59a2cd7498ba12ded2b69132698d51f",
+				"MaskAddress" : "K2EO_MoveMask.png"
+
+			},
+			"Climb" : {
+				"Hash" : "f7a5a012abdfa3694dbe458cfb829145",
+				"Address" : "K2EO_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "839e3914622bed722d714176b257f652",
+				"MaskAddress" : "K2EO_ClimbMask.png"
+
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "偽物",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
