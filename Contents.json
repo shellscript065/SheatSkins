@@ -785,6 +785,42 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0846b6d2c0e01ea3813cc26cdcc7e669",
+				"Address" : "UDzhGIkF_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "efbb2f6315e451855bab3d6efe85b774",
+				"MaskAddress" : "UDzhGIkF_MainMask.png"
+			},
+			"Move" : {
+				"Hash" : "d540dea61b4ddfe939f510902298ee87",
+				"Address" : "UDzhGIkF_Move.png",
+				"ExIsFront" : False,
+				"MaskHash" : "d302a3aaac3d636bf6c282c935aa4350",
+				"MaskAddress" : "UDzhGIkF_MoveMask.png",
+				"Length" : 5
+			},
+			"Climb" : {
+				"Hash" : "d66140de6cb080134ecdbf7c95c10202",
+				"Address" : "UDzhGIkF_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "56a19503b14196cbec09a27936c51971",
+				"MaskAddress" : "UDzhGIkF_MainMask.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "リスキン\(シートver\)",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 17,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
