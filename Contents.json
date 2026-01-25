@@ -424,7 +424,8 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True
+			"IsLocalizable" : True,
+			"IsHidden" : true
 		},
 		{
 			"Main" : {
@@ -630,7 +631,9 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True
+			"IsLocalizable" : True,
+			"IsHidden" : true
+
 		},
 		{
 			"Main" : {
@@ -788,26 +791,18 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "0846b6d2c0e01ea3813cc26cdcc7e669",
-				"Address" : "UDzhGIkF_Main.png",
+				"Hash" : "d8105e4f936abc0ee89b22e58cca941b",
+				"Address" : "l6DGb_Main.png",
 				"ExIsFront" : False,
-				"MaskHash" : "efbb2f6315e451855bab3d6efe85b774",
-				"MaskAddress" : "UDzhGIkF_MainMask.png"
-			},
-			"Move" : {
-				"Hash" : "d540dea61b4ddfe939f510902298ee87",
-				"Address" : "UDzhGIkF_Move.png",
-				"ExIsFront" : False,
-				"MaskHash" : "d302a3aaac3d636bf6c282c935aa4350",
-				"MaskAddress" : "UDzhGIkF_MoveMask.png",
-				"Length" : 5
+				"MaskHash" : "19e3a792e36b53a4b8318594ad81e4a8",
+				"MaskAddress" : "l6DGb_MainMask.png"
 			},
 			"Climb" : {
-				"Hash" : "d66140de6cb080134ecdbf7c95c10202",
-				"Address" : "UDzhGIkF_Climb.png",
+				"Hash" : "1d455d7487b31fc3bb367728f3d43fae",
+				"Address" : "l6DGb_Climb.png",
 				"ExIsFront" : False,
-				"MaskHash" : "56a19503b14196cbec09a27936c51971",
-				"MaskAddress" : "UDzhGIkF_MainMask.png"
+				"MaskHash" : "83706882919ef2f0a0ceed5ba12b0d91",
+				"MaskAddress" : "l6DGb_ClimbMask.png"
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -815,11 +810,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"Name" : "リスキン\(シートver\)",
+			"Name" : "gum",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
-			"FPS" : 17,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
@@ -1101,6 +1096,28 @@
 			"Name" : "怒りまゆげ2",
 			"Author" : "シート",
 			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ae66053fc879ca63a7243e519f745731",
+				"Address" : "LPJbzvonc_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "ae66053fc879ca63a7243e519f745731",
+				"Address" : "LPJbzvonc_Move.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : True,
+			"Fixed" : False,
+			"Name" : "Amonnguasu",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
