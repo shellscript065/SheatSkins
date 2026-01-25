@@ -422,10 +422,10 @@
 			"Name" : "ナーマル",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
+			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True,
-			"IsHidden" : true
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -629,11 +629,10 @@
 			"Name" : "IDK",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
+			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"FPS" : 1,
-			"IsLocalizable" : True,
-			"IsHidden" : true
-
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -815,6 +814,42 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f33a414cff3d17b296cf5624e098fab6",
+				"Address" : "Rn5Wb_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "132fb5df50285024315734ee724c69c7",
+				"MaskAddress" : "Rn5Wb_MainMask.png"
+			},
+			"Move" : {
+				"Hash" : "4e7d9f6e104f524d7b84ce069625b8ba",
+				"Address" : "Rn5Wb_Move.png",
+				"ExIsFront" : False,
+				"MaskHash" : "e2f5df0b9c38bde4d75b9640da17c984",
+				"MaskAddress" : "Rn5wb_MoveMask.png",
+				"Length" : 4
+			},
+			"Climb" : {
+				"Hash" : "6d1c315fce7ca4316b55eda4f327aa17",
+				"Address" : "Rn5Wb_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "ca545533f318db2249aa1e7cd9acc6df",
+				"MaskAddress" : "Rn5Wb_ClimbMask.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "yee",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 78,
 			"IsLocalizable" : True
 		}
 	],
