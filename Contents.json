@@ -828,8 +828,8 @@
 				"Hash" : "4e7d9f6e104f524d7b84ce069625b8ba",
 				"Address" : "Rn5Wb_Move.png",
 				"ExIsFront" : False,
-				"MaskHash" : "19c1857b5055c72b062ad04bfb3d94e7",
-				"MaskAddress" : "Rn5Wb_MoveMask.png",
+				"MaskHash" : "8199ee5c65a802e6b8e805b47c975115",
+				"MaskAddress" : "Rn5wb_MoveMask.png",
 				"Length" : 4
 			},
 			"Climb" : {
@@ -1151,6 +1151,23 @@
 			"BackmostBack" : True,
 			"Fixed" : False,
 			"Name" : "Amonnguasu",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "89fd4dd39be3605e45070312f5f557b1",
+				"Address" : "heXT8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : True,
+			"Fixed" : False,
+			"Name" : "ナイフ",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
