@@ -955,15 +955,103 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Main" : {
+				"Hash" : "2f2acec8266d7d7e16d114bbf33ff7a3",
+				"Address" : "mTTN8TOTb_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "9e967e756b106754dd57b315d78aaca7",
+				"MaskAddress" : "mTTN8TOTb_MainM.png",
+				"Length" : 8,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "2f2acec8266d7d7e16d114bbf33ff7a3",
+				"Address" : "mTTN8TOTb_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "b7b1d8797b0671039adce66c17629f7f",
+				"MaskAddress" : "mTTN8TOTb_MainMM.png",
+				"Length" : 8,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "リックロール",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 13,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2985636a381543d5288fa333b8d0bf69",
+				"Address" : "VB1aToBb_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "2985636a381543d5288fa333b8d0bf69",
+				"Address" : "VB1aToBb_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"Name" : "",
-			"Author" : "",
-			"Package" : "None",
+			"Name" : "Triggered",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1cd94fc369d4db21572ba0c8e42168c6",
+				"Address" : "bXJC8c_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Move" : {
+				"Hash" : "9c7329b82a10493a25f59eaffb2fdd52",
+				"Address" : "bXJC8c_Move.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "de6bd485448f3b947c763c3f46ea76a8",
+				"Address" : "bXJC8c_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"EnterVent" : {
+				"Hash" : "1cd94fc369d4db21572ba0c8e42168c6",
+				"Address" : "bXJC8c_EnterVent.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"ExitVent" : {
+				"Hash" : "9c7329b82a10493a25f59eaffb2fdd52",
+				"Address" : "bXJC8c_ExitVent.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "シート",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -1336,6 +1424,138 @@
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"Name" : "RON",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c21bc6d0be35f4eebdbeeb36ac12ff90",
+				"Address" : "cK1sXrn5b_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "e6a9c5d21b4e0507eafb7c21e4c5bb45",
+				"Address" : "cK1sXrn5b_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "イルミナティ",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "786a2c6947a8b234bd87d7a00cfb33de",
+				"Address" : "ATB4prmeb_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "36349b34dad357b802ac862e123da274",
+				"Address" : "ATB4prmeb_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "Bob_Offiz",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "990e89f1667e30f291e4f51a817cd52c",
+				"Address" : "ZPJmRfxA_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "4a385e8c3402a9f8b91be4a8c8356045",
+				"Address" : "ZPJmRfxA_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "Ron_Smartypants",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e39e5b8e53f508b939cdc55f45e0cae7",
+				"Address" : "v3ly9KXB_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "トロールフェイス",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0f899267e843ae1ab51b9443bc4e476d",
+				"Address" : "Yhu5_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "0f899267e843ae1ab51b9443bc4e476d",
+				"Address" : "Yhu5_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "爆発",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b65b273583e1a0cbdb5a310ca8c70403",
+				"Address" : "W2PA8Cb9b_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "ファミリーガイ",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
