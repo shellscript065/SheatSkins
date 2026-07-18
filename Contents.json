@@ -2,15 +2,15 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Main" : {
-				"Hash" : "d13d91ee72e1f042241053601e4bfbd7",
-				"Address" : "KkCVmn0E_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "f1afef0e9fe739e887577cd304f1d9f3",
 				"Address" : "KkCVmn0E_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "d13d91ee72e1f042241053601e4bfbd7",
+				"Address" : "KkCVmn0E_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -34,16 +34,16 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "759ba346eceab0984862ab06aaf8be72",
-				"Address" : "KVR7_Main.png",
+			"Climb" : {
+				"Hash" : "effd87848c67920ff82def0ed2809c13",
+				"Address" : "KVR7_Climb.png",
 				"ExIsFront" : False,
 				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479",
 				"AnimSync" : 0
 			},
-			"Climb" : {
-				"Hash" : "effd87848c67920ff82def0ed2809c13",
-				"Address" : "KVR7_Climb.png",
+			"Main" : {
+				"Hash" : "759ba346eceab0984862ab06aaf8be72",
+				"Address" : "KVR7_Main.png",
 				"ExIsFront" : False,
 				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479",
 				"AnimSync" : 0
@@ -62,15 +62,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "0ae396c3b154939a79dad213f9214694",
-				"Address" : "GxoeIbTf_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "3a20333c84f2ee2e36a976a66ab04ab8",
 				"Address" : "yzJ8ECUr_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "0ae396c3b154939a79dad213f9214694",
+				"Address" : "GxoeIbTf_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -88,15 +88,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "66914c90361b91e1b196325d06704abe",
-				"Address" : "lbiPkDlrc_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "00ac10067116d8d01c2de87df1b6d87c",
 				"Address" : "lbiPkDlrc_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "66914c90361b91e1b196325d06704abe",
+				"Address" : "lbiPkDlrc_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -114,15 +114,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "2147a64ade8a242da8bc62bea2db291b",
-				"Address" : "mYYUWrd2_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "ba53af19414c29d6ccee7da053d55b84",
 				"Address" : "mYYUWrd2_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "2147a64ade8a242da8bc62bea2db291b",
+				"Address" : "mYYUWrd2_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -140,15 +140,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "9981b9afadd408cceb90eb6d14a1e86d",
-				"Address" : "OYUgD8Wr_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "7b562c920f42d739012bc0474e4cbac4",
 				"Address" : "OYUgD8Wr_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "9981b9afadd408cceb90eb6d14a1e86d",
+				"Address" : "OYUgD8Wr_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -166,15 +166,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "d5798b691f00a20af47b73e481e7058d",
-				"Address" : "R5c6_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "52639bb7cb1f3e059c30499dde6ea13a",
 				"Address" : "R5c6_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "d5798b691f00a20af47b73e481e7058d",
+				"Address" : "R5c6_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -192,6 +192,12 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "79bbf09902f29842a36abae5b51ac1f0",
+				"Address" : "N9Mm7J2_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
 			"Main" : {
 				"Hash" : "49d987a9af3ab987f4973b116c0d23aa",
 				"Address" : "N9Mm7J2_Main.png",
@@ -201,12 +207,6 @@
 			"Move" : {
 				"Hash" : "3f109373e20e8c8e94d6a5188c9b8bdb",
 				"Address" : "N9Mm7J2_Move.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "79bbf09902f29842a36abae5b51ac1f0",
-				"Address" : "N9Mm7J2_Climb.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -224,15 +224,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "fbcfefe68e43b212d21d3625b33ec4a6",
-				"Address" : "PwT9Xi_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "2c61728ffcc2937c803804f9847da0c8",
 				"Address" : "PwT9Xi_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "fbcfefe68e43b212d21d3625b33ec4a6",
+				"Address" : "PwT9Xi_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -250,15 +250,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "683f096be867e539f17dc53f570a4cf7",
-				"Address" : "aqDt17dI_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "be8fb65ca1911acd66e9ebb515386fce",
 				"Address" : "aqDt17dI_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "683f096be867e539f17dc53f570a4cf7",
+				"Address" : "aqDt17dI_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -282,15 +282,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "6ea5ccd3aefd2884d48a5fff87a09a61",
-				"Address" : "GKrtKGxAc_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "be8fb65ca1911acd66e9ebb515386fce",
 				"Address" : "GKrtKGxAc_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "6ea5ccd3aefd2884d48a5fff87a09a61",
+				"Address" : "GKrtKGxAc_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -314,15 +314,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "e597b0069d094b72f6e39dd9eb74e66b",
-				"Address" : "2AyHQ9AAc_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "f0a64a57fbf210bcc55ea429495b1ab9",
 				"Address" : "2AyHQ9AAc_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "e597b0069d094b72f6e39dd9eb74e66b",
+				"Address" : "2AyHQ9AAc_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -340,15 +340,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "22619ce26c9b2edc877c4df4b493117e",
-				"Address" : "iXrWLWWU_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "21f65a9cd3d2bdebf8d36b834b28a755",
 				"Address" : "iXrWLWWU_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "22619ce26c9b2edc877c4df4b493117e",
+				"Address" : "iXrWLWWU_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -366,15 +366,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "65e96830c4c279b60317f40450b2298e",
-				"Address" : "OUSxpj6s_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "18f115402bc8b2f9ad996daab92b6185",
 				"Address" : "OUSxpj6s_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "65e96830c4c279b60317f40450b2298e",
+				"Address" : "OUSxpj6s_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -398,15 +398,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "d92d74d396fc8297e80ddff47a2e1a5e",
-				"Address" : "Nh4MuV6ab_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "18f115402bc8b2f9ad996daab92b6185",
 				"Address" : "Nh4MuV6ab_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "d92d74d396fc8297e80ddff47a2e1a5e",
+				"Address" : "Nh4MuV6ab_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -430,20 +430,20 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "16c6ac0836d1e9489ae6179db338a8e5",
-				"Address" : "lalnGBw_Main.png",
-				"ExIsFront" : False,
-				"MaskHash" : "451f30de0d78e0878f88af595022e574",
-				"MaskAddress" : "lalnGBw_Ma.png",
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "8b766aff89a993d827b1dced4e230a27",
 				"Address" : "lalnGBw_Climb.png",
 				"ExIsFront" : False,
 				"MaskHash" : "c070b6a87d4bd4f7f702ea3acdc86d61",
 				"MaskAddress" : "lalnGBw_MaClimb.png",
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "16c6ac0836d1e9489ae6179db338a8e5",
+				"Address" : "lalnGBw_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "451f30de0d78e0878f88af595022e574",
+				"MaskAddress" : "lalnGBw_Ma.png",
 				"AnimSync" : 0
 			},
 			"Preview" : {
@@ -467,15 +467,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "c10c3ffae0b89781b53a187fc54cef64",
-				"Address" : "AWasCGRt_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "deae71bb2a165ac0d6559e3f3845abbf",
 				"Address" : "AWasCGRt_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "c10c3ffae0b89781b53a187fc54cef64",
+				"Address" : "AWasCGRt_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -493,15 +493,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "2f98ca3c8367f6d2fad2f36e7d4069b9",
-				"Address" : "jpaQI2dob_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "35cbe62fa9004b938c65db5d65d6d083",
 				"Address" : "jpaQI2dob_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "2f98ca3c8367f6d2fad2f36e7d4069b9",
+				"Address" : "jpaQI2dob_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -519,18 +519,18 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "603c2e97de1cb7da82831b4f06f3b95d",
-				"Address" : "KyujyHib_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "mask1.png",
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "9ac412b9706d07fb01d487821b6bb442",
 				"Address" : "KyujyHib_Climb.png",
 				"ExIsFront" : False,
 				"MaskAddress" : "mask2.png",
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "603c2e97de1cb7da82831b4f06f3b95d",
+				"Address" : "KyujyHib_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "mask1.png",
 				"AnimSync" : 0
 			},
 			"Bounce" : False,
@@ -547,18 +547,18 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "9987c03b3d34d2cec58a9938e91451b0",
-				"Address" : "LDir6zRhc_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "LDir6zRhc_MaskMain.png",
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "910d69a7999aecbca7b08b8f5b9617de",
 				"Address" : "LDir6zRhc_Climb.png",
 				"ExIsFront" : False,
 				"MaskAddress" : "LDir6zRhc_MaskClimb.png",
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "9987c03b3d34d2cec58a9938e91451b0",
+				"Address" : "LDir6zRhc_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "LDir6zRhc_MaskMain.png",
 				"AnimSync" : 0
 			},
 			"Bounce" : False,
@@ -575,15 +575,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "f98804e0fa4beeb2367ce1f0bb12d51a",
-				"Address" : "rduj8c_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "dddb976a2b5ee09a257a898cb1dee8f9",
 				"Address" : "rduj8c_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "f98804e0fa4beeb2367ce1f0bb12d51a",
+				"Address" : "rduj8c_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -601,15 +601,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "3f142b981590b40fdf35960f533a3541",
-				"Address" : "0LXYX4Gwb_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "7fcdfa6e1716d97464d61b510ab0acf0",
 				"Address" : "0LXYX4Gwb_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "3f142b981590b40fdf35960f533a3541",
+				"Address" : "0LXYX4Gwb_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -627,18 +627,18 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "4956a99be943b5e750fe392ca5314d41",
-				"Address" : "Vng_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "Vng_MainMask.png",
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "4956a99be943b5e750fe392ca5314d41",
 				"Address" : "Vng_Climb.png",
 				"ExIsFront" : False,
 				"MaskAddress" : "Vng_ClimbMask.png",
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "4956a99be943b5e750fe392ca5314d41",
+				"Address" : "Vng_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "Vng_MainMask.png",
 				"AnimSync" : 0
 			},
 			"Bounce" : False,
@@ -655,18 +655,18 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "85abf8532d7686d46c8ac8caae923330",
-				"Address" : "M55eb_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "M55eb_MainMask.png",
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "117320bc7c718dfe1f6fc5e6831f6b8f",
 				"Address" : "M55eb_Climb.png",
 				"ExIsFront" : False,
 				"MaskAddress" : "M55eb_ClimbMask.png",
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "85abf8532d7686d46c8ac8caae923330",
+				"Address" : "M55eb_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "M55eb_MainMask.png",
 				"AnimSync" : 0
 			},
 			"EnterVent" : {
@@ -691,6 +691,13 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "f2c3bbc27916f404f3fb2a871c67b8c5",
+				"Address" : "5OLhexw_Climb.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "5OLhexw_ClimbMask.png",
+				"AnimSync" : 0
+			},
 			"Main" : {
 				"Hash" : "c1a4c03f5f6e1cdca401f106fc2804e9",
 				"Address" : "5OLhexw_Main.png",
@@ -710,13 +717,6 @@
 				"Address" : "5OLhexw_MoveFlip.png",
 				"ExIsFront" : False,
 				"MaskAddress" : "5OLhexw_MoveFlipMask.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "f2c3bbc27916f404f3fb2a871c67b8c5",
-				"Address" : "5OLhexw_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "5OLhexw_ClimbMask.png",
 				"AnimSync" : 0
 			},
 			"ClimbDown" : {
@@ -754,18 +754,18 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "3762790ff1d6c3b8b1735aca6661a894",
-				"Address" : "6obdJj0U_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "Mask5.png",
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "347d1f0f5a151904b6181609e4fdfc3f",
 				"Address" : "6obdJj0U_Climb.png",
 				"ExIsFront" : False,
 				"MaskAddress" : "Mask6.png",
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "3762790ff1d6c3b8b1735aca6661a894",
+				"Address" : "6obdJj0U_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : "Mask5.png",
 				"AnimSync" : 0
 			},
 			"Bounce" : False,
@@ -782,6 +782,15 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "f3b71021f8111c02179b675ac04eb942",
+				"Address" : "iLxeYnw_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "442201b1f4d35b7c3045efcbbbd79f10",
+				"MaskAddress" : "iLxeYnw_ClimbMask.png",
+				"Length" : 2,
+				"AnimSync" : 0
+			},
 			"Main" : {
 				"Hash" : "880660120fd05dd1da58b4b950b12728",
 				"Address" : "iLxeYnw_Main.png",
@@ -799,15 +808,6 @@
 				"Length" : 2,
 				"AnimSync" : 0
 			},
-			"Climb" : {
-				"Hash" : "f3b71021f8111c02179b675ac04eb942",
-				"Address" : "iLxeYnw_Climb.png",
-				"ExIsFront" : False,
-				"MaskHash" : "442201b1f4d35b7c3045efcbbbd79f10",
-				"MaskAddress" : "iLxeYnw_ClimbMask.png",
-				"Length" : 2,
-				"AnimSync" : 0
-			},
 			"Bounce" : False,
 			"Adaptive" : True,
 			"HideHands" : False,
@@ -822,6 +822,14 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "f7a5a012abdfa3694dbe458cfb829145",
+				"Address" : "K2EO_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "839e3914622bed722d714176b257f652",
+				"MaskAddress" : "K2EO_ClimbMask.png",
+				"AnimSync" : 0
+			},
 			"Main" : {
 				"Hash" : "9bad786fb4e5680b476527f75ea75059",
 				"Address" : "K2EO_Main.png",
@@ -838,14 +846,6 @@
 				"MaskAddress" : "K2EO_MoveMask.png",
 				"AnimSync" : 0
 			},
-			"Climb" : {
-				"Hash" : "f7a5a012abdfa3694dbe458cfb829145",
-				"Address" : "K2EO_Climb.png",
-				"ExIsFront" : False,
-				"MaskHash" : "839e3914622bed722d714176b257f652",
-				"MaskAddress" : "K2EO_ClimbMask.png",
-				"AnimSync" : 0
-			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
@@ -860,20 +860,20 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "d8105e4f936abc0ee89b22e58cca941b",
-				"Address" : "l6DGb_Main.png",
-				"ExIsFront" : False,
-				"MaskHash" : "19e3a792e36b53a4b8318594ad81e4a8",
-				"MaskAddress" : "l6DGb_MainMask.png",
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "1d455d7487b31fc3bb367728f3d43fae",
 				"Address" : "l6DGb_Climb.png",
 				"ExIsFront" : False,
 				"MaskHash" : "83706882919ef2f0a0ceed5ba12b0d91",
 				"MaskAddress" : "l6DGb_ClimbMask.png",
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "d8105e4f936abc0ee89b22e58cca941b",
+				"Address" : "l6DGb_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "19e3a792e36b53a4b8318594ad81e4a8",
+				"MaskAddress" : "l6DGb_MainMask.png",
 				"AnimSync" : 0
 			},
 			"Bounce" : False,
@@ -890,6 +890,14 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "6d1c315fce7ca4316b55eda4f327aa17",
+				"Address" : "Rn5Wb_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "ca545533f318db2249aa1e7cd9acc6df",
+				"MaskAddress" : "Rn5Wb_ClimbMask.png",
+				"AnimSync" : 0
+			},
 			"Main" : {
 				"Hash" : "f33a414cff3d17b296cf5624e098fab6",
 				"Address" : "Rn5Wb_Main.png",
@@ -907,14 +915,6 @@
 				"Length" : 4,
 				"AnimSync" : 0
 			},
-			"Climb" : {
-				"Hash" : "6d1c315fce7ca4316b55eda4f327aa17",
-				"Address" : "Rn5Wb_Climb.png",
-				"ExIsFront" : False,
-				"MaskHash" : "ca545533f318db2249aa1e7cd9acc6df",
-				"MaskAddress" : "Rn5Wb_ClimbMask.png",
-				"AnimSync" : 0
-			},
 			"Bounce" : False,
 			"Adaptive" : True,
 			"HideHands" : False,
@@ -929,15 +929,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "f672e36ffdb097f782c65445bbd158f2",
-				"Address" : "9eD36Ew_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "7d5c7ef30e6af6cc64ff5e709cb67ac4",
 				"Address" : "9eD36Ew_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "f672e36ffdb097f782c65445bbd158f2",
+				"Address" : "9eD36Ew_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -955,21 +955,21 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "2f2acec8266d7d7e16d114bbf33ff7a3",
-				"Address" : "mTTN8TOTb_Main.png",
-				"ExIsFront" : False,
-				"MaskHash" : "9e967e756b106754dd57b315d78aaca7",
-				"MaskAddress" : "mTTN8TOTb_MainM.png",
-				"Length" : 8,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "2f2acec8266d7d7e16d114bbf33ff7a3",
 				"Address" : "mTTN8TOTb_Climb.png",
 				"ExIsFront" : False,
 				"MaskHash" : "b7b1d8797b0671039adce66c17629f7f",
 				"MaskAddress" : "mTTN8TOTb_MainMM.png",
+				"Length" : 8,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "2f2acec8266d7d7e16d114bbf33ff7a3",
+				"Address" : "mTTN8TOTb_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "9e967e756b106754dd57b315d78aaca7",
+				"MaskAddress" : "mTTN8TOTb_MainM.png",
 				"Length" : 8,
 				"AnimSync" : 0
 			},
@@ -987,15 +987,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "2985636a381543d5288fa333b8d0bf69",
-				"Address" : "VB1aToBb_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
 				"Hash" : "2985636a381543d5288fa333b8d0bf69",
 				"Address" : "VB1aToBb_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "2985636a381543d5288fa333b8d0bf69",
+				"Address" : "VB1aToBb_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -1013,6 +1013,12 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "de6bd485448f3b947c763c3f46ea76a8",
+				"Address" : "bXJC8c_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
 			"Main" : {
 				"Hash" : "1cd94fc369d4db21572ba0c8e42168c6",
 				"Address" : "bXJC8c_Main.png",
@@ -1022,12 +1028,6 @@
 			"Move" : {
 				"Hash" : "9c7329b82a10493a25f59eaffb2fdd52",
 				"Address" : "bXJC8c_Move.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "de6bd485448f3b947c763c3f46ea76a8",
-				"Address" : "bXJC8c_Climb.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -1050,6 +1050,32 @@
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "シート",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Climb" : {
+				"Hash" : "7bf78cc8d9ddd52a43b0c97bd7a8bf00",
+				"Address" : "PfiwFU6s_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Main" : {
+				"Hash" : "8116fa8a8619e302c579631989b4c699",
+				"Address" : "PfiwFU6s_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "Yes_Friend",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
