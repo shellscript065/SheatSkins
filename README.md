@@ -1,7 +1,7 @@
 # SheatSkins
 新しくなったシートのスキンです。
 
-Discord id : norp41
+Discord id : Sheat096
 # 利用規約
 ・自作発言禁止
 
