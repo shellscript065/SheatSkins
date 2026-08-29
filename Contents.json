@@ -3,66 +3,6 @@
 	"Hats" : [
 		{
 			"Main" : {
-				"Hash" : "d13d91ee72e1f042241053601e4bfbd7",
-				"Address" : "KkCVmn0E_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "f1afef0e9fe739e887577cd304f1d9f3",
-				"Address" : "KkCVmn0E_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"ClimbDown" : {
-				"Hash" : "f1afef0e9fe739e887577cd304f1d9f3",
-				"Address" : "KkCVmn0E_ClimbDown.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "怒りまゆげ",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "759ba346eceab0984862ab06aaf8be72",
-				"Address" : "KVR7_Main.png",
-				"ExIsFront" : False,
-				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "effd87848c67920ff82def0ed2809c13",
-				"Address" : "KVR7_Climb.png",
-				"ExIsFront" : False,
-				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479",
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : True,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "Ash",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "0ae396c3b154939a79dad213f9214694",
 				"Address" : "GxoeIbTf_Main.png",
 				"ExIsFront" : False,
@@ -82,59 +22,7 @@
 			"LongNeckCostume" : True,
 			"Name" : "Alien_guy",
 			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "66914c90361b91e1b196325d06704abe",
-				"Address" : "lbiPkDlrc_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "00ac10067116d8d01c2de87df1b6d87c",
-				"Address" : "lbiPkDlrc_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "トイレットペーパー",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "2147a64ade8a242da8bc62bea2db291b",
-				"Address" : "mYYUWrd2_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "ba53af19414c29d6ccee7da053d55b84",
-				"Address" : "mYYUWrd2_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "レッドサッサス",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
+			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -160,7 +48,7 @@
 			"LongNeckCostume" : True,
 			"Name" : "カウボーイ",
 			"Author" : "シート",
-			"Package" : "TriffleSkin",
+			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -186,65 +74,7 @@
 			"LongNeckCostume" : True,
 			"Name" : "王冠",
 			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "49d987a9af3ab987f4973b116c0d23aa",
-				"Address" : "N9Mm7J2_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Move" : {
-				"Hash" : "3f109373e20e8c8e94d6a5188c9b8bdb",
-				"Address" : "N9Mm7J2_Move.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "79bbf09902f29842a36abae5b51ac1f0",
-				"Address" : "N9Mm7J2_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : True,
-			"Adaptive" : True,
-			"HideHands" : True,
-			"IsSkinny" : True,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "ATARI",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "fbcfefe68e43b212d21d3625b33ec4a6",
-				"Address" : "PwT9Xi_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "2c61728ffcc2937c803804f9847da0c8",
-				"Address" : "PwT9Xi_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "Odie",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
+			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -276,7 +106,7 @@
 			"LongNeckCostume" : True,
 			"Name" : "healthIcon-Crew",
 			"Author" : "シート",
-			"Package" : "TriffleSkin",
+			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -308,59 +138,7 @@
 			"LongNeckCostume" : True,
 			"Name" : "Healthicon-Inpostor",
 			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "e597b0069d094b72f6e39dd9eb74e66b",
-				"Address" : "2AyHQ9AAc_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "f0a64a57fbf210bcc55ea429495b1ab9",
-				"Address" : "2AyHQ9AAc_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : True,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "Squidboi",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "22619ce26c9b2edc877c4df4b493117e",
-				"Address" : "iXrWLWWU_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "21f65a9cd3d2bdebf8d36b834b28a755",
-				"Address" : "iXrWLWWU_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : True,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "SquidBoy89",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
+			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -431,43 +209,6 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "16c6ac0836d1e9489ae6179db338a8e5",
-				"Address" : "lalnGBw_Main.png",
-				"ExIsFront" : False,
-				"MaskHash" : "451f30de0d78e0878f88af595022e574",
-				"MaskAddress" : "lalnGBw_Ma.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "8b766aff89a993d827b1dced4e230a27",
-				"Address" : "lalnGBw_Climb.png",
-				"ExIsFront" : False,
-				"MaskHash" : "c070b6a87d4bd4f7f702ea3acdc86d61",
-				"MaskAddress" : "lalnGBw_MaClimb.png",
-				"AnimSync" : 0
-			},
-			"Preview" : {
-				"Hash" : "d3c183c9bab46a693495679e85dd4fc4",
-				"Address" : "lalnGBw_Preview.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : True,
-			"IsSkinny" : True,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "ナーマル",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsHidden" : True,
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "c10c3ffae0b89781b53a187fc54cef64",
 				"Address" : "AWasCGRt_Main.png",
 				"ExIsFront" : False,
@@ -520,88 +261,6 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "603c2e97de1cb7da82831b4f06f3b95d",
-				"Address" : "KyujyHib_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "mask1.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "9ac412b9706d07fb01d487821b6bb442",
-				"Address" : "KyujyHib_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "mask2.png",
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : True,
-			"IsSkinny" : True,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "Top10",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "9987c03b3d34d2cec58a9938e91451b0",
-				"Address" : "LDir6zRhc_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "LDir6zRhc_MaskMain.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "910d69a7999aecbca7b08b8f5b9617de",
-				"Address" : "LDir6zRhc_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "LDir6zRhc_MaskClimb.png",
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : True,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "YouBoyAmongUs",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "f98804e0fa4beeb2367ce1f0bb12d51a",
-				"Address" : "rduj8c_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "dddb976a2b5ee09a257a898cb1dee8f9",
-				"Address" : "rduj8c_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "アラブ",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "3f142b981590b40fdf35960f533a3541",
 				"Address" : "0LXYX4Gwb_Main.png",
 				"ExIsFront" : False,
@@ -620,269 +279,6 @@
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "やる気出てきた",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "4956a99be943b5e750fe392ca5314d41",
-				"Address" : "Vng_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "Vng_MainMask.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "4956a99be943b5e750fe392ca5314d41",
-				"Address" : "Vng_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "Vng_ClimbMask.png",
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "3d",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "85abf8532d7686d46c8ac8caae923330",
-				"Address" : "M55eb_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "M55eb_MainMask.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "117320bc7c718dfe1f6fc5e6831f6b8f",
-				"Address" : "M55eb_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "M55eb_ClimbMask.png",
-				"AnimSync" : 0
-			},
-			"EnterVent" : {
-				"Hash" : "2b80f44bcafbfb6a9a0ce6b074803bbc",
-				"Address" : "M55eb_EnterVent.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "M55eb_EnterVentMask.png",
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "IDK",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsHidden" : True,
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "c1a4c03f5f6e1cdca401f106fc2804e9",
-				"Address" : "5OLhexw_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "5OLhexw_MainMask.png",
-				"AnimSync" : 0
-			},
-			"Move" : {
-				"Hash" : "f2c3bbc27916f404f3fb2a871c67b8c5",
-				"Address" : "5OLhexw_Move.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "5OLhexw_MoveMask.png",
-				"AnimSync" : 0
-			},
-			"MoveFlip" : {
-				"Hash" : "7bd3404e13d0ad48b41feea88514c407",
-				"Address" : "5OLhexw_MoveFlip.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "5OLhexw_MoveFlipMask.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "f2c3bbc27916f404f3fb2a871c67b8c5",
-				"Address" : "5OLhexw_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "5OLhexw_ClimbMask.png",
-				"AnimSync" : 0
-			},
-			"ClimbDown" : {
-				"Hash" : "7bd3404e13d0ad48b41feea88514c407",
-				"Address" : "5OLhexw_ClimbDown.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "5OLhexw_ClimbDownMask.png",
-				"AnimSync" : 0
-			},
-			"EnterVent" : {
-				"Hash" : "66dc45a4a836e315d74faf12b0946c61",
-				"Address" : "5OLhexw_EnterVent.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "5OLhexw_EnterVentMask.png",
-				"AnimSync" : 0
-			},
-			"ExitVent" : {
-				"Hash" : "66dc45a4a836e315d74faf12b0946c61",
-				"Address" : "5OLhexw_ExitVent.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "5OLhexw_ExitVentMask.png",
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "アモガス",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "3762790ff1d6c3b8b1735aca6661a894",
-				"Address" : "6obdJj0U_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "Mask5.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "347d1f0f5a151904b6181609e4fdfc3f",
-				"Address" : "6obdJj0U_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : "Mask6.png",
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "KidsAmongUs",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "880660120fd05dd1da58b4b950b12728",
-				"Address" : "iLxeYnw_Main.png",
-				"ExIsFront" : False,
-				"MaskHash" : "d1559d707e55969739e2d91ed4c5cd39",
-				"MaskAddress" : "iLxeYnw_MainMask.png",
-				"AnimSync" : 0
-			},
-			"Move" : {
-				"Hash" : "9690ef8a74748f4b3f6003eff52f1b09",
-				"Address" : "iLxeYnw_Move.png",
-				"ExIsFront" : False,
-				"MaskHash" : "5e6dad4a3d6bf0193dfad982fac8ce95",
-				"MaskAddress" : "iLxeYnw_MoveMask.png",
-				"Length" : 2,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "f3b71021f8111c02179b675ac04eb942",
-				"Address" : "iLxeYnw_Climb.png",
-				"ExIsFront" : False,
-				"MaskHash" : "442201b1f4d35b7c3045efcbbbd79f10",
-				"MaskAddress" : "iLxeYnw_ClimbMask.png",
-				"Length" : 2,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "くそでか",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 42,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "9bad786fb4e5680b476527f75ea75059",
-				"Address" : "K2EO_Main.png",
-				"ExIsFront" : False,
-				"MaskHash" : "b27b31a3b856ea6bca7e50ef8dec8cba",
-				"MaskAddress" : "K2EO_MainMask.png",
-				"AnimSync" : 0
-			},
-			"Move" : {
-				"Hash" : "ed0da74584efb72e1373966db81f0357",
-				"Address" : "K2EO_Move.png",
-				"ExIsFront" : False,
-				"MaskHash" : "f59a2cd7498ba12ded2b69132698d51f",
-				"MaskAddress" : "K2EO_MoveMask.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "f7a5a012abdfa3694dbe458cfb829145",
-				"Address" : "K2EO_Climb.png",
-				"ExIsFront" : False,
-				"MaskHash" : "839e3914622bed722d714176b257f652",
-				"MaskAddress" : "K2EO_ClimbMask.png",
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "偽物",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "d8105e4f936abc0ee89b22e58cca941b",
-				"Address" : "l6DGb_Main.png",
-				"ExIsFront" : False,
-				"MaskHash" : "19e3a792e36b53a4b8318594ad81e4a8",
-				"MaskAddress" : "l6DGb_MainMask.png",
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "1d455d7487b31fc3bb367728f3d43fae",
-				"Address" : "l6DGb_Climb.png",
-				"ExIsFront" : False,
-				"MaskHash" : "83706882919ef2f0a0ceed5ba12b0d91",
-				"MaskAddress" : "l6DGb_ClimbMask.png",
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "gum",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
@@ -988,32 +384,6 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "2985636a381543d5288fa333b8d0bf69",
-				"Address" : "VB1aToBb_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "2985636a381543d5288fa333b8d0bf69",
-				"Address" : "VB1aToBb_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "Triggered",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "1cd94fc369d4db21572ba0c8e42168c6",
 				"Address" : "bXJC8c_Main.png",
 				"ExIsFront" : False,
@@ -1050,32 +420,6 @@
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "シート",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "8116fa8a8619e302c579631989b4c699",
-				"Address" : "PfiwFU6s_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "7bf78cc8d9ddd52a43b0c97bd7a8bf00",
-				"Address" : "PfiwFU6s_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "Yes_Friend",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
@@ -1129,115 +473,7 @@
 			"Fixed" : False,
 			"Name" : "Yarlowmando",
 			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "d13d91ee72e1f042241053601e4bfbd7",
-				"Address" : "KkCVmn0E_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "f1afef0e9fe739e887577cd304f1d9f3",
-				"Address" : "KkCVmn0E_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"ClimbDown" : {
-				"Hash" : "f1afef0e9fe739e887577cd304f1d9f3",
-				"Address" : "KkCVmn0E_ClimbDown.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : True,
-			"Fixed" : False,
-			"Name" : "怒りまゆげ",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "d6c4cf54773525753fba25132e18cd55",
-				"Address" : "TO2o5l_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "a8da13f78f4a43dfc7473152381371f0",
-				"Address" : "TO2o5l_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"ClimbDown" : {
-				"Hash" : "a8da13f78f4a43dfc7473152381371f0",
-				"Address" : "TO2o5l_ClimbDown.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : True,
-			"Fixed" : False,
-			"Name" : "kuri",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "5fcad9ab46bfa18cba76769f0617b9d9",
-				"Address" : "avR1nVXs_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "80627f758cf79be8fb664b6314f10195",
-				"Address" : "avR1nVXs_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : True,
-			"Fixed" : False,
-			"Name" : "ガラスまつげ",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "759ba346eceab0984862ab06aaf8be72",
-				"Address" : "KVR7_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "effd87848c67920ff82def0ed2809c13",
-				"Address" : "KVR7_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : True,
-			"BehindHat" : True,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "Ash",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
+			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -1254,186 +490,6 @@
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"Name" : "にっこり口",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "890905b41dad4fcf06ccf3756108103c",
-				"Address" : "eSzjpj_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "724b02dec0d5f731a35ac8368bb22e16",
-				"Address" : "eSzjpj_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "SHIT",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "f9d866ad88bb1af3d6ab3a049e1f7cc1",
-				"Address" : "dg5BLzw2_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "c75edb59d964a9232ed847182e21ffc3",
-				"Address" : "dg5BLzw2_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "銀のグレイ",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "5ce47e25f4c5aefc0cbd9a504ce747bb",
-				"Address" : "pfP5_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "2e720cebcfcc98931c00979371f47059",
-				"Address" : "pfP5_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "狙う",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "ecc0b1bd82e07b69143a625206cf7834",
-				"Address" : "aNjL3kmq_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "蝶ネクタイ",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "a720f7e45e5d2895d75790e1f51e62b0",
-				"Address" : "u3tnloYO_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "c5b1c9e7bdf816dec1db2c10bed8c493",
-				"Address" : "u3tnloYO_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "Nermal",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "481260bcc07173037fd278d2ed3d06a0",
-				"Address" : "ZJ4NASouc_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "Ourpleguy",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "cfa17597af71bc00b06781f70753bf51",
-				"Address" : "TTBKsYslb_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "3f1742e4528d072effa24aaf27961ac5",
-				"Address" : "TTBKsYslb_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : True,
-			"Fixed" : False,
-			"Name" : "怒りまゆげ2",
-			"Author" : "シート",
-			"Package" : "TriffleSkin",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "ae66053fc879ca63a7243e519f745731",
-				"Address" : "LPJbzvonc_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Move" : {
-				"Hash" : "ae66053fc879ca63a7243e519f745731",
-				"Address" : "LPJbzvonc_Move.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : True,
-			"Fixed" : False,
-			"Name" : "Amonnguasu",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
@@ -1476,30 +532,6 @@
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"Name" : "RON",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "c21bc6d0be35f4eebdbeeb36ac12ff90",
-				"Address" : "cK1sXrn5b_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "e6a9c5d21b4e0507eafb7c21e4c5bb45",
-				"Address" : "cK1sXrn5b_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "イルミナティ",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
@@ -1556,66 +588,6 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "e39e5b8e53f508b939cdc55f45e0cae7",
-				"Address" : "v3ly9KXB_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "トロールフェイス",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "0f899267e843ae1ab51b9443bc4e476d",
-				"Address" : "Yhu5_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Climb" : {
-				"Hash" : "0f899267e843ae1ab51b9443bc4e476d",
-				"Address" : "Yhu5_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "爆発",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "b65b273583e1a0cbdb5a310ca8c70403",
-				"Address" : "W2PA8Cb9b_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "ファミリーガイ",
-			"Author" : "シート",
-			"Package" : "SheatSkins",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "32bfee97ae760c8cc9a652a66142950f",
 				"Address" : "yFBZ_Main.png",
 				"ExIsFront" : False,
@@ -1637,6 +609,132 @@
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
 			"FPS" : 13,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "814d10d2ecbaa2e76cb6b14686027ecb",
+				"Address" : "l3NgQ0SU_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "OH_YES",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2f39b9f0e7b1b56964b166d02f4508ba",
+				"Address" : "Oa4KZ0BA_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "目がイってる",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "000d1dbb982724759b1f46ae664cffc7",
+				"Address" : "43CXdXGyc_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "興味ないね",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5b6705e5fb44fde5f9469a7a7cf85a59",
+				"Address" : "wBY44qw_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "にこにこ",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "19582edeae1ad2e6a2fffaad1f71fa57",
+				"Address" : "Lug_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "49",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ead2c798e9b10cc82039f9851385e291",
+				"Address" : "KkCVmn0E_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "怒りまゆげ",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "219a75211047bb1467f6f184443dec6f",
+				"Address" : "UoR1iRg5b_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "バイザーでかすぎくん",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
